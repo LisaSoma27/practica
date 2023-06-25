@@ -1,0 +1,14 @@
+path:
+  folder_path: data
+  mask: access.log
+json:
+  folder_path: json
+cron:
+  state: true
+  repeat_minutes: 1
+file:
+db:
+  username: username
+  password: password
+  host_port: localhost
+  db: db
